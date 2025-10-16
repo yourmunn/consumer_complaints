@@ -1,0 +1,6 @@
+# ví dụ bỏ qua các file dữ liệu nặng
+data/
+*.csv
+*.zip
+*.parquet
+*.xlsx
